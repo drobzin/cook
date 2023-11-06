@@ -23,7 +23,7 @@ class OnionLaugh extends Recipe{
         print("Блюдо готово");
       }
     else{
-      print("Не правильное количество ингридиентов");
+      print("Неправильное количество ингридиентов");
     }
       }
       catch(e){
