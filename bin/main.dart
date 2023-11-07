@@ -8,8 +8,7 @@ void main(List<String> arguments) {
     Meat(),
     Onion(),
     Potato(),
-    Egg()
   ];
-  cook.cook(OnionLaugh(), foodList);
+  cook.cook(FirstMeal(), foodList);
   
 }

@@ -2,7 +2,7 @@ import 'package:cook/food.dart';
 sealed class Recipe{}
 
 
-class OnionLaugh extends Recipe{
+class FirstMeal extends Recipe{
     void cook(List<Food> foodList){
       try{
       if (foodList.length ==3){

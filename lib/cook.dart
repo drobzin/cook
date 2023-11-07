@@ -5,7 +5,7 @@ class Cook{
 
   void cook(Recipe recipe, List<Food> foodList){
     switch(recipe){
-      case OnionLaugh():
+      case FirstMeal():
       recipe.cook(foodList);
     }
   }
